@@ -1,0 +1,6 @@
+#!/bin/bash
+
+PRIMER_NOMBRE=Adria
+SEGUNDO_NOMBRE=Jorda
+
+echo Hola $PRIMER_NOMBRE $SEGUNDO_NOMBRE.
